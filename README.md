@@ -1,5 +1,4 @@
-# amallh.github.io
-AI biomedical engineer
+
 👋 Hi, I'm Amal lahchim
 In this study, the focus is on developing a robust methodology for automatic
 segmentation of infected lung regions in COVID-19 CT scans utilizing advanced CNNs. The
