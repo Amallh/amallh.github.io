@@ -1,22 +1,14 @@
 # amallh.github.io
 AI biomedical engineer
 👋 Hi, I'm Amal lahchim
-🚀 AI/ML Engineer | Cloud Specialist | NLP Enthusiast
-
-💡 Passionate about AI, Deep Learning, and Cloud Computing.
-🔬 Working on AI-powered solutions, NLP models, and computer vision projects.
-🌍 Exploring AI applications in real-world problems.
-
-📌 About Me
-🎓 Background in Machine Learning, AI Research, and Cloud Infrastructure.
-🛠️ Skilled in Python, TensorFlow, PyTorch, Hugging Face, Whisper, YOLOv8.
-☁️ Cloud experience with AWS, Google Cloud, and Kubernetes.
-📊 Interested in NLP, Speech Recognition, and Computer Vision.
-🛠️ My Tech Stack
-🔹 Languages: Python, JavaScript, Bash
-🔹 AI/ML: TensorFlow, PyTorch, Scikit-Learn, Hugging Face
-🔹 Speech & NLP: Whisper, pyannote, transformers
-🔹 Computer Vision: YOLOv8, OpenCV, CNNs
-🔹 Cloud & DevOps: AWS, Google Cloud, Docker, Kubernetes
-🔹 Web & APIs: Flask, FastAPI, Next.js
-
+In this study, the focus is on developing a robust methodology for automatic
+segmentation of infected lung regions in COVID-19 CT scans utilizing advanced CNNs. The
+proposed model is based on a modified U-Net architecture with attention mechanisms, data
+augmentation, and postprocessing techniques, achieving high segmentation accuracy and
+boundary precision. The dataset was sourced from publicly available repositories, processed,
+and augmented to increase its diversity and generalizability. The approach was evaluated
+quantitatively, resulting in a Dice coefficient of 0.8658 and mean IoU of 0.8316. The proposed
+model is compared to existing methods through comparative analysis, clearly demonstrating its
+superiority in handling data variability and achieving precise segmentation. Future work involves
+expanding the dataset, applying an alternative 3D segmentation approach, and improving the
+model for clinical deployment.
