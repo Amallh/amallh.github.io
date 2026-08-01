@@ -1,5 +1,4 @@
 
-👋
 In this study, the focus is on developing a robust methodology for automatic
 segmentation of infected lung regions in COVID-19 CT scans utilizing advanced CNNs. The
 proposed model is based on a modified U-Net architecture with attention mechanisms, data
